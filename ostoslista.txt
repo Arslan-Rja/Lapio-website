@@ -1,0 +1,3 @@
+ostos 1
+ostos 2
+ostos 3
