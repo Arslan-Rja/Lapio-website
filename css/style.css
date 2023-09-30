@@ -1,0 +1,37 @@
+p { color: gray; }
+
+div { color: gold; }
+
+.lila {
+    color: goldenrod;
+}   
+
+.kuva {
+    text-align: center;
+    border-style:groove;
+    border-width: 2em;
+    border-color: goldenrod;
+    background-color: goldenrod;
+
+}
+
+
+body {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+  }
+
+  body {
+    margin: 1em;
+    max-width: 50em;
+  }
+
+  body {
+    line-height: 1.5;
+    padding: 4em 2em;
+  }
+  
+  h2 {
+    margin-top: 1em;
+    padding-top: 1em;
+  }
+
